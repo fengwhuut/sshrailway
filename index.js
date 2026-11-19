@@ -137,7 +137,7 @@ function addSsh(username, password, ipAddr, userAgent) {
             `🔹 Username  : ${username}\n` +
             `🔹 Password  : ${password}\n` +
             `================================\n` +
-            ` powered by : d e d e f a t h u\n` +
+            ` powered by : ᴹᴿ᭄ Fєngͥwнuuͫt ×፝֟͜×\n` +
             `================================`;
         return { status: "success", message: accountDetails };
     } catch (e) {
