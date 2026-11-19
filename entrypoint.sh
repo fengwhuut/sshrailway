@@ -23,8 +23,8 @@ sysctl -w net.ipv4.tcp_max_syn_backlog=8192 2>/dev/null
 
 # =================================================================
 
-USER_NAME="${SSH_USER:-dd}"
-USER_PASS="${SSH_PASSWORD:-dd}"
+USER_NAME="${SSH_USER:-feng}"
+USER_PASS="${SSH_PASSWORD:-feng}"
 PUBLIC_PORT="${PORT:-8080}"
 SSL_INTERNAL_PORT="${SSL_INTERNAL_PORT:-2443}"
 WS_INTERNAL_PORT="8880"
@@ -53,7 +53,7 @@ cat << 'EOF' > /etc/dropbear_banner
 <font color="#00FF00"> 🔹 OS PLATFORM :</font> <font color="#00FFFF">UBUNTU</font><br>
 <font color="#0000FF"> 🔹 SSH SERVICE :</font> <font color="#9B59B6">DROPBEAR ENHANCED BUFFER</font><br>
 <center><font color="#FF0000">==================================================</font></center><br>
-<center><font color="#FFD700">powered by : d e d e f a t h u</font></center><br>
+<center><font color="#FFD700">powered by : ᴹᴿ᭄ Fєngͥwнuuͫt ×፝֟͜×</font></center><br>
 <center><font color="#FF0000">==================================================</font></center>
 EOF
 
